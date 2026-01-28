@@ -1,0 +1,91 @@
+# =========================
+# OS Generated Files
+# =========================
+
+# macOS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+.AppleDouble
+.LSOverride
+Icon?
+
+# Linux
+*~
+.fuse_hidden*
+.directory
+.Trash-*
+.nfs*
+
+# Windows
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+*.stackdump
+[Dd]esktop.ini
+$RECYCLE.BIN/
+*.cab
+*.msi
+*.msix
+*.msm
+*.msp
+*.lnk
+
+# =========================
+# PHP
+# =========================
+
+# Composer
+/vendor/
+composer.phar
+composer.lock
+
+# PHPUnit
+.phpunit.result.cache
+.phpunit.cache/
+phpunit.xml
+
+# PHP CS Fixer
+.php-cs-fixer.cache
+.php_cs.cache
+
+# PHPStan
+phpstan.neon
+
+# IDE / Editor specific
+/.idea/
+/.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Environment files
+.env
+.env.local
+.env.*.local
+.env.backup
+*.env
+
+# Logs
+*.log
+logs/
+/storage/logs/
+
+# Cache
+/cache/
+*.cache
+
+# Sessions
+/sessions/
+
+# Temporary files
+/tmp/
+/temp/
+
+# =========================
+# Claude Code
+# =========================
+.claude/
+CLAUDE.local.md
